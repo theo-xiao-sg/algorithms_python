@@ -2,11 +2,11 @@
 
 These are a few python algorithms made with python.
 These include:
-*A code to calculate the factorial of a number (`factorial.py`)
-*A code to calculate the greatest common divisor(GCD) of a number (`gcd.py`)
-*A code to convert images to a GIF animated image (`lcm.py`)
-*A code to find out if the number is a palindrome number (`palindrome_number.py`)
-*A code to compare the speed of two methods to find the square root of a number, binary search and linear search (`square_root.py`)
+* A code to calculate the factorial of a number (`factorial.py`)
+* A code to calculate the greatest common divisor(GCD) of a number (`gcd.py`)
+* A code to convert images to a GIF animated image (`lcm.py`)
+* A code to find out if the number is a palindrome number (`palindrome_number.py`)
+* A code to compare the speed of two methods to find the square root of a number, binary search and linear search (`square_root.py`)
  
 ## Running Guide
 
