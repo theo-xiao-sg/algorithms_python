@@ -3,9 +3,15 @@
 These are a few python algorithms made with python.
 These include:
 * A code to compare the speed of two methods to find the square root of a large number, binary search and linear search (`square_root.py`)
+* A code to achieve binary search implementation using recursive algorithm (`binary_search_recursive.py`)
+* A code to implement quick sort algorithm using recursive method (`quick_sort.py`)
+* A code to implement insert sort algorithm (`insert_sort.py`)
+* A code to implement selection sort algorithm (`selection_sort.py`)
+* A code to implement bubble sort algorithm (`bubble_sort.py`)
 * A code to calculate the factorial of a number (`factorial.py`)
+* A code to calculate the greatest common divisor(GCD) of a number using recursive algorithm (`gcd_recursive.py`)
 * A code to calculate the greatest common divisor(GCD) of a number (`gcd.py`)
-* A code to convert images to a GIF animated image (`lcm.py`)
+* A code to  calculate the least common multiplier(LCM) of a number (`lcm.py`)
 * A code to find out if the number is a palindrome number (`palindrome_number.py`)
 
  
